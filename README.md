@@ -2,7 +2,7 @@
 
 **Fecha:** Jueves, 16 de octubre de 2025
 
-**Integrantes:** Calle Ontaneda Hugo Jazyel, Chero Villegas Leidy Fabiola, Cueva Mendoza Jherson Aldair.
+**Integrantes:** Calle Ontaneda, Hugo Jazyel; Chero Villegas, Leidy Fabiola; Cueva Mendoza, Jherson Aldair.
 
 La regresión logística constituye uno de los pilares fundamentales de la modelación estadística y el aprendizaje supervisado, al permitir estimar probabilidades de pertenencia a una clase mediante una función de enlace logit. No obstante, su formulación se adapta a distintos escenarios de clasificación entre ellos el modelo binario, adecuado para problemas de dos categorías; el enfoque One-vs-All (OvA), que extiende la lógica binaria a entornos multiclase mediante la construcción de clasificadores independientes; y el modelo multinomial o Softmax, que optimiza de manera conjunta las probabilidades para todas las clases. Si bien las tres formulaciones comparten la base de la log-verosimilitud, difieren en la estructura del gradiente, la estabilidad numérica durante el entrenamiento y el tipo de coherencia que imponen sobre las predicciones.
 
